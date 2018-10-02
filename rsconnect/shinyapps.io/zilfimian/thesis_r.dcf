@@ -1,0 +1,13 @@
+name: thesis_r
+title: thesis_r
+username:
+account: zilfimian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 340023
+bundleId: 1373684
+url: https://zilfimian.shinyapps.io/thesis_r/
+when: 1526331183.45004
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: vecm_my.csv

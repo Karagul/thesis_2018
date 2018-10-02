@@ -1,0 +1,13 @@
+name: thesis_r
+title: thesis_r
+username:
+account: zilfi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 339666
+bundleId: 1365601
+url: https://zilfi.shinyapps.io/thesis_r/
+when: 1525904150.98911
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

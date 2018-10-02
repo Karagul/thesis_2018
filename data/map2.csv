@@ -1,0 +1,210 @@
+Country,2010,2011,2012,2013,2014,2015,2016,CODE
+Russian Federation,567,739,827,"1,402","1,334",949,879,RUS
+United States,110,141,158,302,285,207,191,USA
+Ukraine,51,67,75,119,112,81,75,UKR
+France,19,24,27,53,50,36,34,FRA
+Germany,21,27,30,44,41,30,28,DEU
+Uzbekistan,0,0,0,40,38,27,25,UZB
+Spain,16,20,23,30,28,21,19,ESP
+Kazakhstan,8,10,11,23,22,16,15,KAZ
+Greece,11,14,15,22,21,15,14,GRC
+Belgium,2,2,2,19,18,13,12,BEL
+Belarus,7,9,10,15,14,10,10,BLR
+Czech Republic,1,1,2,13,10,9,9,CZE
+Azerbaijan,43,56,62,10,9,7,6,AZE
+Austria,1,1,1,9,9,6,6,AUT
+Canada,3,4,5,8,8,6,5,CAN
+Moldova,0,0,0,7,7,5,5,MDA
+Sweden,1,2,2,7,7,5,5,SWE
+Turkmenistan,7,9,11,7,6,5,4,TKM
+"Iran, Islamic Rep.",1,2,2,6,6,4,4,IRN
+Kyrgyz Republic,0,0,0,6,6,4,4,KGZ
+Poland,2,3,3,6,6,4,4,POL
+Georgia,17,22,24,5,5,4,3,GEO
+Bulgaria,0,0,0,4,4,3,3,BRN
+Cyprus,1,2,2,4,4,3,3,CYP
+Australia,2,2,2,4,4,3,2,AUS
+Turkey,1,1,1,3,3,2,2,TUR
+Italy,1,1,1,3,3,2,2,ITA
+Latvia,4,5,5,3,2,2,2,LVA
+Argentina,,0,0,2,2,2,2,ARG
+Netherlands,3,3,4,2,2,2,2,NLD
+Switzerland,1,1,1,2,2,2,2,CHE
+Lithuania,,1,1,2,2,2,1,LTU
+Denmark,1,1,1,2,2,1,1,DNK
+Estonia,,,,2,2,1,1,EST
+Norway,,,,1,1,1,1,NOR
+Libya,,0,0,1,1,0,0,LBY
+Hungary,,0,0,1,1,0,0,HUN
+Israel,20,26,29,,,0,0,ISR
+United Kingdom,1,1,1,,,0,0,GBR
+Algeria,0,0,0,0,0,0,0,DZA
+American Samoa,0,0,0,0,0,0,0,ASM
+Andorra,0,0,0,0,0,0,0,AND
+Angola,0,0,0,0,0,0,0,AGO
+Antigua and Barbuda,0,0,0,0,0,0,0,ATG
+Armenia,0,0,0,0,0,0,0,ARM
+Aruba,0,0,0,0,0,0,0,ABW
+"Bahamas, The",0,0,0,0,0,0,0,BHM
+Bahrain,0,0,0,0,0,0,0,BHR
+Bangladesh,0,0,0,0,0,0,0,BGD
+Barbados,0,0,0,0,0,0,0,BRB
+Belize,0,0,0,0,0,0,0,BLZ
+Benin,0,0,0,0,0,0,0,BEN
+Bermuda,0,0,0,0,0,0,0,BMU
+Bhutan,0,0,0,0,0,0,0,BTN
+Bolivia,0,0,0,0,0,0,0,BOL
+Bosnia and Herzegovina,0,0,0,0,0,0,0,BIH
+Botswana,0,0,0,0,0,0,0,BWA
+Brazil,0,0,0,0,0,0,0,BRA
+Brunei Darussalam,0,0,0,0,0,0,0,VGB
+Burkina Faso,0,0,0,0,0,0,0,BGR
+Burundi,0,0,0,0,0,0,0,BDI
+Cabo Verde,0,0,0,0,0,0,0,CPV
+Cambodia,0,0,0,0,0,0,0,KHM
+Cameroon,0,0,0,0,0,0,0,CMR
+Cayman Islands,0,0,0,0,0,0,0,CYM
+Central African Republic,0,0,0,0,0,0,0,CAF
+Chad,0,0,0,0,0,0,0,TCD
+Chile,0,0,0,0,0,0,0,CHL
+China,0,0,0,0,0,0,0,CHN
+Colombia,0,0,0,0,0,0,0,COL
+Comoros,0,0,0,0,0,0,0,COM
+"Congo, Dem. Rep.",0,0,0,0,0,0,0,COD
+"Congo, Rep.",0,0,0,0,0,0,0,COG
+Costa Rica,0,0,0,0,0,0,0,CRI
+Cote d'Ivoire,0,0,0,0,0,0,0,CIV
+Croatia,0,0,0,0,0,0,0,HRV
+Cuba,0,0,0,0,0,0,0,CUB
+Curacao,0,0,0,0,0,0,0,CUW
+Djibouti,0,0,0,0,0,0,0,DJI
+Dominica,0,0,0,0,0,0,0,DMA
+Dominican Republic,0,0,0,0,0,0,0,DOM
+Ecuador,0,0,0,0,0,0,0,ECU
+"Egypt, Arab Rep.",0,0,0,0,0,0,0,EGY
+El Salvador,0,0,0,0,0,0,0,SLV
+Equatorial Guinea,0,0,0,0,0,0,0,GNQ
+Eritrea,0,0,0,0,0,0,0,ERI
+Ethiopia,0,0,0,0,0,0,0,ETH
+Faeroe Islands,0,0,0,0,0,0,0,FRO
+Fiji,0,0,0,0,0,0,0,FJI
+Finland,0,0,0,0,0,0,0,FIN
+French Polynesia,0,0,0,0,0,0,0,PYF
+Gabon,0,0,0,0,0,0,0,GAB
+"Gambia, The",0,0,0,0,0,0,0,GMB
+Ghana,0,0,0,0,0,0,0,GHA
+Greenland,0,0,0,0,0,0,0,GRL
+Grenada,0,0,0,0,0,0,0,GRD
+Guam,0,0,0,0,0,0,0,GUM
+Guatemala,0,0,0,0,0,0,0,GTM
+Guinea,0,0,0,0,0,0,0,GIN
+Guinea-Bissau,0,0,0,0,0,0,0,GNB
+Guyana,0,0,0,0,0,0,0,GUY
+Haiti,0,0,0,0,0,0,0,HTI
+Honduras,0,0,0,0,0,0,0,HND
+"Hong Kong SAR, China",0,0,0,0,0,0,0,HKG
+Hungary,0,0,0,0,0,0,0,HUN
+Iceland,0,0,0,0,0,0,0,ISL
+India,0,0,0,0,0,0,0,IND
+Indonesia,0,0,0,0,0,0,0,IDN
+Iraq,0,0,0,0,0,0,0,IRQ
+Ireland,0,0,0,0,0,0,0,IRL
+Isle of Man,0,0,0,0,0,0,0,IMN
+Israel,0,0,0,0,0,0,0,ISR
+Jamaica,0,0,0,0,0,0,0,JAM
+Japan,0,0,0,0,0,0,0,JPN
+Jordan,0,0,0,0,0,0,0,JOR
+Kenya,0,0,0,0,0,0,0,KEN
+Kiribati,0,0,0,0,0,0,0,KIR
+"Korea, Dem. Rep.",0,0,0,0,0,0,0,PRK
+"Korea, Rep.",0,0,0,0,0,0,0,KOR
+Kosovo,0,0,0,0,0,0,0,KSV
+Kuwait,0,0,0,0,0,0,0,KWT
+Lao PDR,0,0,0,0,0,0,0,LAO
+Lebanon,0,0,0,0,0,0,0,LBN
+Lesotho,0,0,0,0,0,0,0,LSO
+Liberia,0,0,0,0,0,0,0,LBR
+Libya,0,0,0,0,0,0,0,LBY
+Liechtenstein,0,0,0,0,0,0,0,LIE
+Luxembourg,0,0,0,0,0,0,0,LUX
+"Macao SAR, China",0,0,0,0,0,0,0,MAC
+"Macedonia, FYR",0,0,0,0,0,0,0,MKD
+Madagascar,0,0,0,0,0,0,0,MDG
+Malawi,0,0,0,0,0,0,0,MWI
+Malaysia,0,0,0,0,0,0,0,MYS
+Maldives,0,0,0,0,0,0,0,MDV
+Mali,0,0,0,0,0,0,0,MLI
+Malta,0,0,0,0,0,0,0,MLT
+Marshall Islands,0,0,0,0,0,0,0,MHL
+Mauritania,0,0,0,0,0,0,0,MRT
+Mauritius,0,0,0,0,0,0,0,MUS
+Mexico,0,0,0,0,0,0,0,MEX
+"Micronesia, Fed. Sts.",0,0,0,0,0,0,0,FSM
+Monaco,0,0,0,0,0,0,0,MCO
+Mongolia,0,0,0,0,0,0,0,MNG
+Montenegro,0,0,0,0,0,0,0,MNE
+Morocco,0,0,0,0,0,0,0,MAR
+Mozambique,0,0,0,0,0,0,0,MOZ
+Namibia,0,0,0,0,0,0,0,NAM
+Nepal,0,0,0,0,0,0,0,NPL
+New Caledonia,0,0,0,0,0,0,0,NCL
+New Zealand,0,0,0,0,0,0,0,NZL
+Nicaragua,0,0,0,0,0,0,0,NIC
+Niger,0,0,0,0,0,0,0,NER
+Nigeria,0,0,0,0,0,0,0,NGA
+Northern Mariana Islands,0,0,0,0,0,0,0,MNP
+Oman,0,0,0,0,0,0,0,OMN
+Pakistan,0,0,0,0,0,0,0,PAK
+Palau,0,0,0,0,0,0,0,PLW
+Panama,0,0,0,0,0,0,0,PAN
+Papua New Guinea,0,0,0,0,0,0,0,PNG
+Paraguay,0,0,0,0,0,0,0,PRY
+Peru,0,0,0,0,0,0,0,PER
+Philippines,0,0,0,0,0,0,0,PHL
+Portugal,0,0,0,0,0,0,0,PRT
+Puerto Rico,0,0,0,0,0,0,0,PRI
+Qatar,0,0,0,0,0,0,0,QAT
+Romania,0,0,0,0,0,0,0,ROU
+Rwanda,0,0,0,0,0,0,0,RWA
+Samoa,0,0,0,0,0,0,0,WSM
+San Marino,0,0,0,0,0,0,0,SMR
+Sao Tome and Principe,0,0,0,0,0,0,0,STP
+Saudi Arabia,0,0,0,0,0,0,0,SAU
+Senegal,0,0,0,0,0,0,0,SEN
+Serbia,0,0,0,0,0,0,0,SRB
+Seychelles,0,0,0,0,0,0,0,SYC
+Sierra Leone,0,0,0,0,0,0,0,SLE
+Singapore,0,0,0,0,0,0,0,SGP
+Sint Maarten (Dutch part),0,0,0,0,0,0,0,SXM
+Slovak Republic,0,0,0,0,0,0,0,SVK
+Slovenia,0,0,0,0,0,0,0,SVN
+Solomon Islands,0,0,0,0,0,0,0,SLB
+Somalia,0,0,0,0,0,0,0,SOM
+South Africa,0,0,0,0,0,0,0,ZAF
+South Sudan,0,0,0,0,0,0,0,SSD
+Sri Lanka,0,0,0,0,0,0,0,LKA
+Sudan,0,0,0,0,0,0,0,SDN
+Suriname,0,0,0,0,0,0,0,SUR
+Swaziland,0,0,0,0,0,0,0,SWZ
+Syrian Arab Republic,0,0,0,0,0,0,0,SYR
+Tajikistan,0,0,0,0,0,0,0,TJK
+Tanzania,0,0,0,0,0,0,0,TZA
+Thailand,0,0,0,0,0,0,0,THA
+Timor-Leste,0,0,0,0,0,0,0,TLS
+Togo,0,0,0,0,0,0,0,TGO
+Tonga,0,0,0,0,0,0,0,TON
+Trinidad and Tobago,0,0,0,0,0,0,0,TTO
+Tunisia,0,0,0,0,0,0,0,TUN
+Tuvalu,0,0,0,0,0,0,0,TUV
+Uganda,0,0,0,0,0,0,0,UGA
+United Arab Emirates,0,0,0,0,0,0,0,ARE
+United Kingdom,0,0,0,0,0,0,0,GBR
+Uruguay,0,0,0,0,0,0,0,URY
+Vanuatu,0,0,0,0,0,0,0,VUT
+"Venezuela, RB",0,0,0,0,0,0,0,VEN
+Vietnam,0,0,0,0,0,0,0,VNM
+Virgin Islands (U.S.),0,0,0,0,0,0,0,VGB
+West Bank and Gaza,0,0,0,0,0,0,0,WBG
+"Yemen, Rep.",0,0,0,0,0,0,0,YEM
+Zambia,0,0,0,0,0,0,0,ZMB
+Zimbabwe,0,0,0,0,0,0,0,ZWE
